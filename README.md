@@ -1,3 +1,6 @@
+# Nome: Marcus Vinicius Pereira Rocha 
+# Curso: Análise e Desenvolvimento de Sistemas (ADS)
+# Período: 4
 # Modelos-m-todos-e-t-cnicas-da-engenharia-de-software;
 Esse é um repositório dedicado a atividades da UC: Modelos, métodos e técnicas da engenharia de software;
 ### 1. Calculadora Simples
